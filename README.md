@@ -18,7 +18,7 @@ Beacuse typescript helps in catching errors at development and fixing them, we c
 2. let - scopped globally and block level. Can't be redeclared and hoisted. Can be updated.  Global scoped let is not assigned to global object.
 3. const - scopped globally and block level. Can't be redeclared, updated and hoisted. Global scoped const is not assigned to global object.
 
-### Types Script Types 
+### TypeScript and JavaScript Types 
 1. number - for all types of number such as Float, double etc.
 2. string - can be single or double quotes or Back ticks.
 3. boolean - true or false
