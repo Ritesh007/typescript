@@ -10,7 +10,7 @@ Compile typescipt that gets converted to javascript - tsc app.ts <br />
 ### TypeScript facts -
 All the code that is written in typescript is complied to javascript.
 JavaScript is the one that actually runs. <br />
-** So why TypeScript? ** <br />
+**So why TypeScript?** <br />
 Beacuse typescript helps in catching errors at development and fixing them, we cant catch errors through typescript at runtime as JavaScript is the one that runs.
 
 ### Variable identifiers -
