@@ -8,3 +8,9 @@ function add(n1: number, n2: number) {
 
 const result = add(6, 3);
 console.log(result); 
+
+// Type number at the time of assignment
+let n1: number;
+n1 = 5;
+
+// Playing with Objects
