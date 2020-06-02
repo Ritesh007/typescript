@@ -26,16 +26,16 @@ Beacuse typescript helps in catching errors at development and fixing them, we c
 1. number - for all types of number such as Float, double etc.
 2. string - can be single or double quotes or Back ticks.
 3. boolean - true or false
-4. Object - example - {age:30}
-5. Array - example - [1,2,3,'name']
-6. Any - any type
+4. object - example - {age:30}
+5. array - example - [1,2,3,'name']
+6. any - any type
 
 ### Eclusive types by TypeScript
-1. Tuple  - immutable arrays - [1,2]. Push works on tuple.
-2. Enum - example - enum {NEW, OLD}. Gives you an enumerated list. Used to define global constants.
-3. Union - having multiple types assigned to a single variable.
-4. Literal types - used to assign only a set of specifies values.
-5. Type alias - used to create alias for unions.
+1. tuple  - immutable arrays - [1,2]. Push works on tuple.
+2. enum - example - enum {NEW, OLD}. Gives you an enumerated list. Used to define global constants.
+3. union - having multiple types assigned to a single variable.
+4. literal types - used to assign only a set of specifies values.
+5. type alias - used to create alias for unions.
 
 ### Functions
 
