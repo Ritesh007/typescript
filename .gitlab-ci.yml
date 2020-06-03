@@ -1,0 +1,6 @@
+stages:
+  - deploy
+
+prod_deploy:
+  script:
+    - echo "hello"
